@@ -7,4 +7,4 @@
 * [A](list-A/README.md)
     * [abjure-acerbic](list-A/abjure-acerbic.md)
     * [affluence-ally](list-A/affluence-ally.md)
-
+    * [assiduous-authentic](list-A/assiduous-authentic.md)
