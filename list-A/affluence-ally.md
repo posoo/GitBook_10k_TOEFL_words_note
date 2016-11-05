@@ -3,7 +3,7 @@
 ## affluence
 
 n.富裕，富足
-flu => flow
+**flu => flow**
 a => 加强
 （flu n.流感）
 af+flu+ence： 加强流动（资金）
@@ -108,7 +108,7 @@ vt.减轻，减少(情感)
 eg. allay your anger
 al+lay: (加强)躺一会儿
 allay <-- alleviate vt.减轻，缓解: 加强变轻
-lev => 1.rise (elevator电梯) 2.light
+**lev => 1.rise (elevator电梯) 2.light**
 > - levity
   ```
   n.轻浮(not serious)
