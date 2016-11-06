@@ -8,3 +8,5 @@
     * [abjure-acerbic](list-A/abjure-acerbic.md)
     * [affluence-ally](list-A/affluence-ally.md)
     * [assiduous-authentic](list-A/assiduous-authentic.md)
+    * [avaricious-avert](list-A/avaricious-avert.md)
+
