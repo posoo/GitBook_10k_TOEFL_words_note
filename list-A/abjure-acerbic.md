@@ -3,8 +3,11 @@
 ## abjure
 
 v. 宣誓放弃，放弃权利 （联想abandon）
+
 **ab => away**
+
 **jure => to swear 发誓宣誓（向陪审团的动作）  （jury 陪审团）**
+
 abjure: 宣布离开
 
   - adjure （向陪审团发誓）恳求
@@ -49,8 +52,11 @@ relinguish = re+link+ish(像...一样）
 ## abominate
 
 v.痛恨
+
 ab => away
+
 **omin => omen n.凶兆（联想Amen）--> ominous adj.不吉祥的，凶兆的**
+
 --> abominable 令人讨厌的；恶毒的
 
 ### SYNONYM
@@ -74,7 +80,9 @@ loathe 痛恨（誓言）
 ## abstain
 
 vi.禁绝，放弃 +from
+
 *eg. abstain from drinking/smoking*
+
 --> abstinence n.禁欲
 
 >  tips: ab- 放在t/c前，往往+s => abs-
@@ -83,6 +91,7 @@ vi.禁绝，放弃 +from
   - absolve 赦免，宽恕（解决了可以离开了）
 
 **tain => to keep （联想: maintain）**
+
 abstain = away+tain(keep) 不再保持 => 放弃
 
 - detain
@@ -115,6 +124,7 @@ vt.鄙视，瞧不起（look down upon)
 ## acerbic
 
 adj.酸的；（言辞上）尖刻的
+
 **ac/acerb/acr => 1.sour 2.sharp（联想:Ace）**
 
 - exacerbate

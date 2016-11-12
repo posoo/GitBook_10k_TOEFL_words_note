@@ -3,11 +3,15 @@
 ## avaricious
 
 adj. 贪婪的(greedy),贪财的
+
 **av => greed**
+
 --> avarice n.贪婪（联想:ava+rice: 瞪大眼睛看见一堆粮食)
+
 --> avid adj. 1.贪婪的 2.狂热的
 
 ### SYNONYM
+
 - voracious
 ```
 adj. 贪吃的 (区别: veracious真实的)
@@ -32,9 +36,13 @@ cover
 ## avert
 
 v. 转移，避免(avoid)
+
 eg. avert your eyes
+
 **vert/vers => to turn**
+
   convert  v.转变
+
   anniversary 周年纪念日(又转了一年)
 
 - advert

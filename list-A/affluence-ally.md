@@ -3,10 +3,15 @@
 ## affluence
 
 n.富裕，富足
+
 **flu => flow**
+
 a => 加强
+
 （flu n.流感）
+
 af+flu+ence： 加强流动（资金）
+
 --> affluent adj.富裕的
 
 - superfluous
@@ -51,6 +56,7 @@ adj.富裕的
 ## affront
 
 n.公开侮辱，轻蔑(to insult sb in public/opening)
+
 af+front: 加强，在你面前
 
 - confront
@@ -105,10 +111,15 @@ eg. abusive words 谩骂的话
 ## allay
 
 vt.减轻，减少(情感)
+
 eg. allay your anger
+
 al+lay: (加强)躺一会儿
+
 allay <-- alleviate vt.减轻，缓解: 加强变轻
+
 **lev => 1.rise (elevator电梯) 2.light**
+
 > - levity
   ```
   n.轻浮(not serious)

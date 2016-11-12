@@ -3,7 +3,9 @@
 ## assiduous
 
 adj.勤勉的,刻苦的(= hard-working, industrious, diligent)
+
 **sid/sed => sit**
+
 as+sid+uous 加强坐着那里
 
 - insidious
@@ -53,7 +55,9 @@ adj. 懒惰的
 ## assimilate
 
 vt.吸收;理解;同化(思想,语言)
+
 **simil/simul/semble => same <= sym-/syn-**
+
 as+simil(al)+ate 加强愈来愈像
 
 - simultaneous
@@ -81,6 +85,7 @@ veri+similar 真像
 ## attenuate
 
 v.削弱
+
 **tenu => thin**
 
 - tenuous
@@ -102,7 +107,9 @@ v. 使变薄,减轻(罪行)
 ## augment
 
 v. 增加 (= increase)
+
 (联想: argument 吵着吵着愈演愈烈)
+
 **aug/auc/aud => (add)increase**
 
 - auction
@@ -113,7 +120,8 @@ auc+tion: 价格不断增加
 - august
 ```
 adj. 威严的  n. 八月
-来源: Gaius Julius Caesar Augustus(8月（拉丁文Augustus，即罗马人的六月）的月令是以奥古斯都命名；在此之前它被叫做Sextilis（拉丁语中“六”的意思）。)
+来源: Gaius Julius Caesar Augustus
+(8月（拉丁文Augustus，即罗马人的六月）的月令是以奥古斯都命名；在此之前它被叫做Sextilis（拉丁语中“六”的意思）。)
 皇帝的感觉,不断增加: 威严的
 ```
 - audacious
@@ -134,14 +142,17 @@ ac+cre+tion: 加强(不断)创造积累 (一般强调自然的积累增加)
 - mount
 ```
 v. 1. 登上(mountain) 2. 增加(不断往上登)
-    paramount adj. 至高无上的,最重要的 (para- => beyond, paradise 天堂)(Paramount电影公司)
-    surmount v. 征服,战胜,克服,解决 (sur- => 1.on 2.more, survive幸存(多活下来的))(骑在你上面了)
-      insurmountable 不能战胜的,无法超越的
+    paramount adj. 至高无上的,最重要的
+    (para- => beyond, paradise 天堂)(Paramount电影公司)
+    surmount v. 征服,战胜,克服,解决
+    (sur- => 1.on 2.more, survive幸存(多活下来的))(骑在你上面了)
+      --> insurmountable 不能战胜的,无法超越的
 ```
 
 ## austere
 
 adj. 1.简朴的,朴素的(plain) 2.严峻的,严厉的(strict) 3.苦行的(ascetic)
+
 **stern adj. 严厉的,苛刻的 (「死瞪」)**
 
 ### ANTONYM
@@ -154,6 +165,7 @@ adj. 装饰的,花哨的
 ## authentic
 
 adj. 1.可信的,真正的 2.真迹的
+
 author --> authentic
 
 |True|False|
