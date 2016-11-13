@@ -99,7 +99,7 @@ eg. The air ten miles above the earth is very tenuous.
 ```
 v. 使变薄,减轻(罪行)
 ```
-### ANTONYM
+### *ANTONYM*
 
 - enhance
 - reinforce
@@ -131,7 +131,7 @@ adj. 1.大胆的，鲁莽放肆的 2.厚颜无耻的
     loquacious adj.话多的 （loqu => logue => dialogue 对话)
 ```
 
-### SYNONYM
+### *SYNONYM*
 
 - accretion(n.)/accrue (v.)
 ```
@@ -155,7 +155,7 @@ adj. 1.简朴的,朴素的(plain) 2.严峻的,严厉的(strict) 3.苦行的(asce
 
 **stern adj. 严厉的,苛刻的 (「死瞪」)**
 
-### ANTONYM
+### *ANTONYM*
 
 - decorated
 ```

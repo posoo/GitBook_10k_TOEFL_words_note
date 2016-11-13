@@ -12,7 +12,7 @@ adj. 有害的(harmful),使人苦恼的
 
 - bane
 ```
-n.祸害,祸根(the origin of disater)
+n. 祸害,祸根(the origin of disaster)
 (ban 禁止做的: 祸害祸根)
 ```
 - wane
@@ -81,7 +81,7 @@ n. 野蛮人
 bar+bar+ian: 拿两棒子的人
 ```
 
-### SYNONYM
+### *SYNONYM*
 
 - blockade
 ```
@@ -99,7 +99,7 @@ adj. 淫秽的,好色的(联想: body)
 
 bawd => n. 老鸨
 
-### SYNONYM
+### *SYNONYM*
 
 - obscene
 ```

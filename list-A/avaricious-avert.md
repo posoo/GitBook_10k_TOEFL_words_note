@@ -10,7 +10,7 @@ adj. 贪婪的(greedy),贪财的
 
 --> avid adj. 1.贪婪的 2.狂热的
 
-### SYNONYM
+### *SYNONYM*
 
 - voracious
 ```

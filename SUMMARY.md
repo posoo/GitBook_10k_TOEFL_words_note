@@ -12,3 +12,4 @@
     * [aviary-avow](list-A/aviary-avow.md)
 * [B](list-B/README.md)
     * [balmy-bawdy](list-B/balmy-bawdy.md)
+    * [benign-blatant](list-B/benign-blatant.md)

@@ -15,14 +15,14 @@ abjure: 宣布离开
   - perjure 做伪证（背离誓言）
     （per- => 1.away 2.through）
 
-### ANTONYM
+### *ANTONYM*
 
 espouse 支持
 ```
   spouse 夫妻；配偶 （sp- 产生；发散）
   spawn  n./v.产卵
 ```
-### SYNONYM
+### *SYNONYM*
 
 - for(e)go
 ```
@@ -59,7 +59,7 @@ ab => away
 
 --> abominable 令人讨厌的；恶毒的
 
-### SYNONYM
+### *SYNONYM*
 
 - abhor
 ```

@@ -42,7 +42,7 @@ n.涌入
 eg. We have a large influx of tourists in the summer.
 ```
 
-### SYNONYM
+### *SYNONYM*
 
 - well-to-do
 ```
@@ -73,7 +73,7 @@ eg. One juror had the effrontery to challenge the coroner's decision.
 ef(x)+front+ery: 喜欢把脸露在外面的人
 ```
 
-### SYNONYM
+### *SYNONYM*
 
 - insult
 ```

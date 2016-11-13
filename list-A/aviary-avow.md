@@ -74,14 +74,14 @@ eg. evoke a laughter/ evoke his interest in basketball
 e+voke: 喊出来
 ```
 
-### ANTONYM
+### *ANTONYM*
 
 - disavow
 ```
 vt. 不承认,抵赖,拒绝对…承担责任
 ```
 
-### SYNONYM
+### *SYNONYM*
 
 - aver
 ```
