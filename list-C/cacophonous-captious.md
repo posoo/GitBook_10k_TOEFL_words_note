@@ -5,6 +5,7 @@
 adj. 发音不和谐的,嘈杂的(boisterous/blatant)
 
 **phon => sound**
+
 **caco => bad**
 
 (联想记忆: 卡壳的声音)

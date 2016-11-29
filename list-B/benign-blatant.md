@@ -8,11 +8,11 @@ eg. benign tumor(肿瘤)/benign competition
 
 |**bene => good**|**male => evil**|
 |----------------|----------------|
-|benefactor<br>```n. (做好事的人)行善者,施主,恩人```|malefactor<br> ```n. (做坏事的人)罪犯(criminal)```|
-|benediction<br>```n. (说好话)祝福```|malediction<br>```n. (说邪恶的东西)诅咒(curse)```|
-|benevolent<br>```adj. 慈善的,有爱心的```<br>```vol => will```|malevolent<br>```adj. 恶毒的(baneful)```|
-|benign<br>```adj. 良性的```|malignant<br>```adj. 恶性的```|
-|beneficial<br>```adj. 有益的```|
+|benefactor<br>n. (做好事的人)行善者,施主,恩人|malefactor<br> n. (做坏事的人)罪犯(criminal)|
+|benediction<br>n. (说好话)祝福|malediction<br>n. (说邪恶的东西)诅咒(curse)|
+|benevolent<br>adj. 慈善的,有爱心的<br>vol => will|malevolent<br>adj. 恶毒的(banefMul)|
+|benign<br>adj. 良性的|malignant<br>adj. 恶性的|
+|beneficial<br>adj. 有益的|
 
 - malice
 ```
