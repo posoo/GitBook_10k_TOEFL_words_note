@@ -15,3 +15,5 @@
     * [benign-blatant](list-B/benign-blatant.md)
     * [boisterous-breach](list-B/boisterous-breach.md)
     * [brink-bumble](list-B/brink-bumble.md)
+* [C](list-C/README.md)
+    * [cacophonous-captious](list-C/cacophonous-captious.md)
