@@ -17,3 +17,4 @@
     * [brink-bumble](list-B/brink-bumble.md)
 * [C](list-C/README.md)
     * [cacophonous-captious](list-C/cacophonous-captious.md)
+    * [cardinal-cession](list-C/cardinal-cession.md)
