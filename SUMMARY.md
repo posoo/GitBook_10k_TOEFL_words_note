@@ -18,3 +18,4 @@
 * [C](list-C/README.md)
     * [cacophonous-captious](list-C/cacophonous-captious.md)
     * [cardinal-cession](list-C/cardinal-cession.md)
+    * [chastise-circumlocution](list-C/chastise-circumlocution.md)  
